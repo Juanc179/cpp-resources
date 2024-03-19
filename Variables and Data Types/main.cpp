@@ -27,4 +27,19 @@ char - characters
 bool - True or False - 1 & 0
 void - typless tipe.
 auto - deduces types
+
+functions for variables types
+sizeof(var) tells the size of the memory occupied by the variable
+
+signed int {positive and negative number}
+unsigned int {no signed, only positive}
+short; two bytes only.
+
+float, 7 digit decimal number
+double, 14 digit decimal number
+not using variable types properly can derivate in chopped or trashed numbers.
+
+Char: 
+char character1 {'a'}; can also be refered with ASCII code. 
+
 */
