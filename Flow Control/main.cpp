@@ -38,7 +38,7 @@ switch ( variable ){
     default : break; // default condition if none is correct.
 }
 
-ternary operator
+ternary operator, very usefull when there are 2 conditions excusevely.
     result = (condition) ? option1 : option 2; // option must be the same type or casted to the same type
     is the same as 
     if(condition){
@@ -46,4 +46,5 @@ ternary operator
     } else{
         result = option2;
     }
+
 */
